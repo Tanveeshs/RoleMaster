@@ -18,8 +18,9 @@ permissions.
 #### Getting Started
 
 These instructions will help you set up and run the authentication server on your local machine for development and
-testing purposes.
-
+testing purposes.\
+Visit the blog for step-by-step tutorial \
+https://medium.com/@tanveeshs/creating-an-role-based-authentication-server-using-golang-and-fiber-3367341cf7c5
 #### Prerequisites
 
 You will need the following software and services installed:
